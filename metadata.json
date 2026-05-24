@@ -1,0 +1,6 @@
+{
+  "name": "L7 Load Balancer",
+  "description": "A custom Layer 7 HTTP Load Balancer built in Node.js/TypeScript demonstrating Round Robin and Least Connections algorithms with real-time analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
